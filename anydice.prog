@@ -1,0 +1,20 @@
+function: max N {
+ result: 12 + (N-1)d12 + N*5
+}
+
+function: min N {
+ result: 6 + (N-1)d6 - N
+}
+
+function: level N {
+ result: ([max N] - [min N])/N
+}
+
+X: 0
+L: 20
+
+loop N over {1..L}{
+ X: [level N] + X
+}
+
+output X/L
