@@ -2,7 +2,7 @@
 
 ## <blue>domain spells</blue>
 
-For paladins that favor a more martial playstyle, this is a quite good selection of spells. Divine Favor, Magic Weapon and Crusader's Mantle are paladin spells. Spiritual Weapon is plainly useful as it's not a concentration spell and it's always good to have it prepared.
+For paladins that favor a more martial play style, this is a quite good selection of spells. Divine Favor, Magic Weapon and Crusader's Mantle are paladin spells. Spiritual Weapon is plainly useful as it's not a concentration spell and it's always good to have it prepared.
 
 ## <navy>bonus proficiencies</navy>
 

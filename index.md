@@ -1,15 +1,15 @@
 Hello and welcome to the Cleric guide for D&D 5e.
 
-In the following guide I will be using the color coding that I introduced during the days of 3.5e in the wizards' of the coast optimization forum. Unfortunately that guide is now lost, because the forum is defunkt, but a forum poster named Clockwerk66 has posted it [here](http://www.enworld.org/forum/showthread.php?471718-Handbook-to-Guide-Writing-(Dictum_Mortuum)). Normally, I prefer three colors and a fourth one that's there to denote the best choices.
+In the following guide I will be using the color coding that I introduced during the days of 3.5e in the wizards' of the coast optimization forum. Unfortunately that guide is now lost, because the forum is defunct, but a forum poster named Clockwerk66 has posted it [here](http://www.enworld.org/forum/showthread.php?471718-Handbook-to-Guide-Writing-(Dictum_Mortuum)). Normally, I prefer three colors and a fourth one that's there to denote the best choices.
 
 - <navy>**navy**</navy>: this is a no-brainer. I use this sparingly.
 - <blue>**blue**</blue>: this is a good choice. I use this more often.
 - **black**: this is ok. Most items fall into this category.
 - <red>**red**</red>: this is bad. I use this often.
 
-The character optimization community has picked up the color coding technique and it is now used in almost every optimization guide on the internet, but every time I feel that people are not using it correctly.
+The character optimization community has picked up the color coding technique and it is now used in almost every optimization guide on the Internet, but every time I feel that people are not using it correctly.
 
-My first issue, is too many colors. Three is easy to keep in your head. Some people are using 5 or 6 colors and this makes me scroll between the colorcode explanation and the item that I'm currently reading. Often, the order doesn't make any sense, too: recently I was reading a guide where best was yellow, orange was next to worst and red was worst, but orange, yellow and red are really close in the color scale!
+My first issue, is too many colors. Three is easy to keep in your head. Some people are using 5 or 6 colors and this makes me scroll between the color code explanation and the item that I'm currently reading. Often, the order doesn't make any sense, too: recently I was reading a guide where best was yellow, orange was next to worst and red was worst, but orange, yellow and red are really close in the color scale!
 
 My second issue is lack of sufficient explanation. I'm guilty of this myself a lot of times - sometimes the guide writer grades an item with a color, but the explanation is different - e.g. bad items described positively, which puts the reader off.
 
@@ -23,7 +23,7 @@ Additionally, I will be using the following tier levels to describe builds or ca
 
 # the many-faced class
 
-Among the basic classes from the Player's Handbook, the cleric has the most thematic freedom. By selecting the correct divine domain you can be a holy warrior, much like a paladin, a roguish trickster, a blaster or a good ol' healbot. The best part is that domains only offer abilities that have a positive impact on your core, meaning that you won't have, for instance, less spells per day for selecting the Light domain over the War domain; you might get bonus skills, armor and exclusive abilities, but not at the cost of your main kit.
+Among the basic classes from the Player's Handbook, the cleric has the most thematic freedom. By selecting the correct divine domain you can be a holy warrior, much like a paladin, a roguish trickster, a blaster or a good ol' heal bot. The best part is that domains only offer abilities that have a positive impact on your core, meaning that you won't have, for instance, less spells per day for selecting the Light domain over the War domain; you might get bonus skills, armor and exclusive abilities, but not at the cost of your main kit.
 
 When playing a cleric, **use the diversity that if offered by divine domains**: try to figure out the weaknesses of your party and help by selecting a domain that could be of assistance.
 
@@ -33,7 +33,7 @@ Remember that clerics of different domains could potentially follow the same dei
 
 While the divine domains is the class feature that takes clerics apart, spells is what binds them together. Every cleric is a conduit of the divine; he is able to manifest his god's power into spells from the cleric spell list. This list is the same for all clerics, with minor differences, most often because of their domain selection.
 
-If I could do a TL;DR version of this guide, it would probably be the following: **Before making any important desicion for your character, ask yourself: does this hurt my spellcasting ability?**
+If I could do a TL;DR version of this guide, it would probably be the following: **Before making any important decision for your character, ask yourself: does this hurt my spellcasting ability?**
 
 Remember that you are a full caster: your number one priority as a character is the god-given ability to manipulate the divine power of the gods. **Don't be carried away by your theme, it's there to add fluff, synergy and variety, it's not meant to be built upon.** Of course, there are always exceptions to this rule, but they are rare. If you are faced with a feat choice - e.g. "should I grab Heavy Armor Master for my life cleric, or should I put that +2 to my wisdom?", the safest choice is the one that improves your wisdom and your spellcasting.
 
@@ -49,13 +49,13 @@ With that information in hand, you can now determine the potency of your healing
 
 # the healer's dilemma
 
-Among the roleplaying groups that I have encountered, there are some people that view the cleric as a dedicated healbot. Even though I am not a fan of MMORPGs, I think that this is the source of this opinion, that the character who heals should only do that and little else.
+Among the roleplaying groups that I have encountered, there are some people that view the cleric as a dedicated heal bot. Even though I am not a fan of MMORPGs, I think that this is the source of this opinion, that the character who heals should only do that and little else.
 
-However, MMOs and tabletop games are foundamentaly different. In D&D, full casters are among the best classes due to their utility. The cleric's role is that of the support - do anything in your power to buff your teammates and debuff your enemies.
+However, MMOs and tabletop games are fundamentally different. In D&D, full casters are among the best classes due to their utility. The cleric's role is that of the support - do anything in your power to buff your teammates and debuff your enemies.
 
 I am not suggesting that you shouldn't be healing people - you should pick up the healer's role, since you do have access to all the healing spells - cure wounds, healing word, mass cure wounds, mass healing word, heal; what I'm saying is **do not reduce your combat role to those 5 spells**. You do have others, which are powerful.
 
-This is the healer's dilemma - do you spend your action casting a powerful spell that will hinder your enemies, or do you save an ally from dying? Thankfully, in 5th edition, being at 0 hit points doesn't mean that you're immediately dead, so if an ally's down, he can wait one round if he's not fired upon, or two if he succeeds on the death saving throw.
+This is the healer's dilemma - do you spend your action casting a powerful spell that will hinder your enemies, or do you save an ally from dying? Thankfully, in 5th edition, being at 0 hit points doesn't mean that you're immediately dead, so if an ally is down, he can wait one round if he's not fired upon, or two if he succeeds on the death saving throw.
 
 Remember that the combat ends when your enemies are all dead or fleeing. Each action that you take against your enemies is one action closer to the end of the battle. The fighting ability of your allies is the same whether they have 10 or 100 hit points remaining.
 
@@ -84,3 +84,7 @@ Mass cure wounds is a lot better, since it's not a touch spell, but I still cons
 # domains
 
 {>domains}
+
+# spells
+
+{>spells}

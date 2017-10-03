@@ -6,7 +6,7 @@ The Trickery domain offers a good selection of utility and mobility spells.
 
 ## <red>blessing of the trickster</red>
 
-This is rather luckluster - you can't use this ability on yourself, so you have to have an ally that favors stealth checks. Additionally, you can't use this on multiple teammates, as if you reuse it previous blessings automatically stop. So you can bless a single ally to gain advantage on a single skill check, as many times as you wish in the day.
+This is rather lackluster - you can't use this ability on yourself, so you have to have an ally that favors stealth checks. Additionally, you can't use this on multiple teammates, as if you reuse it previous blessings automatically stop. So you can bless a single ally to gain advantage on a single skill check, as many times as you wish in the day.
 
 ## channel divinity: invoke duplicity
 

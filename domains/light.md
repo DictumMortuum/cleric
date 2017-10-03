@@ -30,7 +30,7 @@ Technically, this ability is not a spell, so you can use this ability and also c
 
 ## <blue>improved flare</blue>
 
-I feel that this should have been included in warding flare and this level should've featured another ability.
+I feel that this should have been included in warding flare and this level should have featured another ability.
 
 Chances are that you're not fighting in the front lines and you're avoiding melee combat, based on the class features that this domain offers.
 

@@ -2,7 +2,7 @@
 
 ## domain spells
 
-The spells added to your spell list are ok, but nothing special - it's a mix of enchantment and divination spells.
+The spells added to your spell list are OK, but nothing special - it's a mix of enchantment and divination spells.
 
 ## blessings of knowledge
 

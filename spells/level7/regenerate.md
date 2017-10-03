@@ -1,0 +1,3 @@
+# regenerate
+
+- *player's handbook*

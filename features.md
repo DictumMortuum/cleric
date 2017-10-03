@@ -10,7 +10,7 @@ Hit points are low for a class that can potentially be in the front line, but it
 
 The highlight of the cleric's core is without a doubt their saves: wisdom and charisma. Wisdom is a strong saving throw proficiency, because it appears quite often as a save. Charisma isn't as popular, but it is used to avoid some quite debilitating effects.
 
-The rest of the proficiencies are luckluster: no tools and a small list of skills, which includes history, insight, medicine, persuation and religion.
+The rest of the proficiencies are lackluster: no tools and a small list of skills, which includes history, insight, medicine, persuasion and religion.
 
 ## <blue>Channel Divinity</blue>
 
