@@ -4,4 +4,8 @@
 
 Nothing special - it's basically a way to see in the dark when your race doesn't have darkvision, which is quite rare to be honest.
 
-There is some utility to the spell, but it's undermined by the fact that it automatically ends when you cast it again; its most useful function is to point at targets when you can't communicate or for co-ordination - I like casting Light on the feathers of an arrow beforehand and shooting at targets, making obvious where they are, especially in the dark. The fact that you can color the light as you like gives you some options, too - shooting colored arrows is almost like using flares.
+Light can be used for utility and it's exceptionaly good at this, especially if you've communicated the signals to your teammates beforehand. Remember that you can select the color of the light, but the spell automatically ends when you cast it again, so it's only one at the time.
+
+I like casting light on ammunition and then shooting them. You can signal help, danger, or even give the position of enemies. You can even coordinate with your allies, especially if the party is split.
+
+Another way of using light is casting it on pebbles and throwing them in places that are too dark. If you want to investigate an underground corridor, it's a good idea to throw a rock (or use a sling!) at the end of it. Sure, some attention may be drawn to it, but you can prepare and get some round or two of free attacks.
